@@ -1,0 +1,5 @@
+E:\Work\Running\convert2_xbrl\convert2_xbrl\bin\convert2_xbrl.dll
+E:\Work\Running\convert2_xbrl\convert2_xbrl\bin\convert2_xbrl.pdb
+E:\Work\Running\convert2_xbrl\convert2_xbrl\obj\Debug\convert2_xbrl.csprojResolveAssemblyReference.cache
+E:\Work\Running\convert2_xbrl\convert2_xbrl\obj\Debug\convert2_xbrl.dll
+E:\Work\Running\convert2_xbrl\convert2_xbrl\obj\Debug\convert2_xbrl.pdb
