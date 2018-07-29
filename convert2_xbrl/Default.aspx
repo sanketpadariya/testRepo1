@@ -9,9 +9,7 @@
     <div class="hometext">
 
         <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-                <td></td>
-            </tr>
+           
             <tr>
                 <td width="4%">
                     <img src="images/bleue-arrow.gif" alt="" /></td>
